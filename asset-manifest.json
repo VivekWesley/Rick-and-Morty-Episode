@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rick-and-Morty-Episode/static/css/main.b5768d8c.chunk.css",
+    "main.js": "/Rick-and-Morty-Episode/static/js/main.70dd3acd.chunk.js",
+    "main.js.map": "/Rick-and-Morty-Episode/static/js/main.70dd3acd.chunk.js.map",
+    "runtime-main.js": "/Rick-and-Morty-Episode/static/js/runtime-main.2391794f.js",
+    "runtime-main.js.map": "/Rick-and-Morty-Episode/static/js/runtime-main.2391794f.js.map",
+    "static/js/2.6c355c2e.chunk.js": "/Rick-and-Morty-Episode/static/js/2.6c355c2e.chunk.js",
+    "static/js/2.6c355c2e.chunk.js.map": "/Rick-and-Morty-Episode/static/js/2.6c355c2e.chunk.js.map",
+    "index.html": "/Rick-and-Morty-Episode/index.html",
+    "precache-manifest.66965637179643df2b2e4dcd997eb2c1.js": "/Rick-and-Morty-Episode/precache-manifest.66965637179643df2b2e4dcd997eb2c1.js",
+    "service-worker.js": "/Rick-and-Morty-Episode/service-worker.js",
+    "static/css/main.b5768d8c.chunk.css.map": "/Rick-and-Morty-Episode/static/css/main.b5768d8c.chunk.css.map",
+    "static/js/2.6c355c2e.chunk.js.LICENSE.txt": "/Rick-and-Morty-Episode/static/js/2.6c355c2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2391794f.js",
+    "static/js/2.6c355c2e.chunk.js",
+    "static/css/main.b5768d8c.chunk.css",
+    "static/js/main.70dd3acd.chunk.js"
+  ]
+}
